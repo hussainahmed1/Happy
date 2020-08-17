@@ -52,7 +52,7 @@ def hamza(z):
 		sys.stdout.flush()
 		time.sleep(0.03)
 ##### LOGO #####
-logo = """
+banner = """
 \033[1;97m╭━━━╮
 \033[1;97m┃╭━╮┃
 \033[1;97m┃┃╱┃┣━━┳┳━━┳━━┳━╮
